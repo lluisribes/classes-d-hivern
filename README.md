@@ -14,7 +14,7 @@ Salvaguarda digital:
 1. Oferir una còpia de seguretat perdurable en un format universal i agnòstic de plataforma
 2. Optimització per a IA/LLM: L'ús de fitxers .md estructurats facilita la ingesta de dades en models de llenguatge a gran escala (LLM) i fluxos de generació augmentada per recuperació (RAG), permetent una anàlisi semàntica i estilística precisa de l'obra
 
-Nomenclatura de fitxers: Cada poema segueix el patró numero-titol-Lluis-Ribes-i-Portillo.md per garantir un ordre cronològic i bibliogràfic rigorós dins l'arxiu.
+Nomenclatura de fitxers: Cada poema segueix el patró numero-titol.md per garantir un ordre cronològic i bibliogràfic rigorós dins l'arxiu.
 
 --------------------------------------------------------------------------------
 ## English
@@ -29,4 +29,4 @@ The purpose of this repository is twofold:
 1. Digital Safeguard: Providing a durable backup in a universal, tool-agnostic format
 2. AI/LLM Optimization: The structured .md files are optimized for ingestion by Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) pipelines, allowing for precise semantic and stylistic analysis of the work
 
-File Naming Convention: Each poem follows the pattern number-title-Lluis-Ribes-i-Portillo.md to ensure a strict chronological and bibliographic order within the archive.
+File Naming Convention: Each poem follows the pattern number-title.md to ensure a strict chronological and bibliographic order within the archive.
