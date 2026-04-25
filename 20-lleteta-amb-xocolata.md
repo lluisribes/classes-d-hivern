@@ -1,6 +1,6 @@
 # 22. Lleteta amb xocolata
 
-Vull lleteta amb xocolata – demanies
+Vull lleteta amb xocolata – demanes
 quan et segresto dels teus somnis.
 Són les set de la matinada, assegut
 al teu costat et desitjo bon dia,
